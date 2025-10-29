@@ -1,0 +1,50 @@
+{
+  "features_base": [
+    "IPM",
+    "Akses_Sanitasi_Layak",
+    "Akses_Air_Layak",
+    "Air_Kemasan",
+    "Konsumsi_Pangan_Tidak_Cukup",
+    "Jumlah_KPM_Bansos",
+    "Anggaran_Bansos",
+    "Melek_Aksara",
+    "Tingkat_Pengangguran",
+    "Imunisasi_Lengkap",
+    "Lama_Sekolah",
+    "Garis_Kemiskinan_Makanan",
+    "Kedalaman_Kemiskinan"
+  ],
+  "features_extra": [
+    "log_Anggaran_Bansos",
+    "log_Jumlah_KPM_Bansos",
+    "log_Garis_Kemiskinan_Makanan",
+    "IPM_x_LamaSekolah",
+    "AksesGabungan",
+    "Pengangguran_per_IPM",
+    "Bansos_per_KPM",
+    "Konsumsi_vs_IPM"
+  ],
+  "features_all": [
+    "IPM",
+    "Akses_Sanitasi_Layak",
+    "Akses_Air_Layak",
+    "Air_Kemasan",
+    "Konsumsi_Pangan_Tidak_Cukup",
+    "Jumlah_KPM_Bansos",
+    "Anggaran_Bansos",
+    "Melek_Aksara",
+    "Tingkat_Pengangguran",
+    "Imunisasi_Lengkap",
+    "Lama_Sekolah",
+    "Garis_Kemiskinan_Makanan",
+    "Kedalaman_Kemiskinan",
+    "log_Anggaran_Bansos",
+    "log_Jumlah_KPM_Bansos",
+    "log_Garis_Kemiskinan_Makanan",
+    "IPM_x_LamaSekolah",
+    "AksesGabungan",
+    "Pengangguran_per_IPM",
+    "Bansos_per_KPM",
+    "Konsumsi_vs_IPM"
+  ]
+}
